@@ -1,3 +1,2 @@
-I'm a fourth year at UoFT studying Physics, Computer Science, and Mathematics.
-I wish to pursue Quantum Computing but I am also passionate about Video Game Development as a hobby (see repository "Snow").
-My favourite video games are Spelunky HD & 2, Elden Ring, and Undertale.
+I'm a fourth-year undergraduate at the University of Toronto studying Physics, Computer Science, and Mathematics. I graduate in June 2025.
+I am currently performing research in quantum simulation for electronic structure problems and procrastination in postsecondary STEM students.

@@ -1,4 +1,3 @@
-I'm a fourth-year undergraduate at the University of Toronto studying Physics, Computer Science, and Mathematics. I graduate in June 2025.
-I am currently performing research in quantum simulation for electronic structure problems and procrastination in postsecondary STEM students.
+I'm an incoming MScAC student at the University of Toronto, and I recently completed my HBSc at UofT as a Physics & Computer Science double major and Mathematics minor.
 
-I'm also interested in Video Game Design as a hobby, and have some experience using Godot Game Engine.
+My interests include quantum simulation and video game design.
